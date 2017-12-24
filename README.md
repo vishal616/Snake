@@ -1,4 +1,4 @@
-# Snake
+# Snake AI game
 
 This project focuses on the AI algorithm of the snake game. The AI's goal is to direct the snake to eat the food and fill the map with its body as quickly as possible, so it **should not** just follow a fixed pattern (e.g., zigzagging).
 
